@@ -10,5 +10,5 @@ apt-get install -y \
   openssl
 
 ## Install rustup and common components
-curl https://sh.rustup.rs -sSf | sh -s -- -y 
-rustup install nightly
+# curl https://sh.rustup.rs -sSf | sh -s -- -y 
+# rustup install nightly

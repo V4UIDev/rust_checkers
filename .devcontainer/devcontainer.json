@@ -1,5 +1,9 @@
 {
-	"name": "rust_checkers",
+    "name": "rust_checkers",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "features": {
+        "ghcr.io/devcontainers/features/rust:1": {}
+    },
 	"extensions": [
 		"cschleiden.vscode-github-actions",
 		"ms-vsliveshare.vsliveshare",
